@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.exe
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.deps.json
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.runtimeconfig.json
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.dll
+C:\Users\sergi\source\repos\App18\bin\Debug\netcoreapp3.1\App18.pdb
+C:\Users\sergi\source\repos\App18\obj\Debug\netcoreapp3.1\App18.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App18\obj\Debug\netcoreapp3.1\App18.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App18\obj\Debug\netcoreapp3.1\App18.dll
+C:\Users\sergi\source\repos\App18\obj\Debug\netcoreapp3.1\App18.pdb
